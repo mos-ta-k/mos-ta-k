@@ -1,5 +1,3 @@
-# 💫 About Me:
-Computer Science & Engineering Student with a strong focus on full-stack web development. Proficient in modern web technologies including HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, and MongoDB.<br><br>Passionate about building scalable, efficient, and user-friendly web applications while continuously improving technical and problem-solving skills. Currently working towards becoming a professional full-stack developer and contributing to impactful real-world projects.
 
 
 ## 🌐 Socials:
