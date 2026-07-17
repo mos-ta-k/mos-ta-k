@@ -1,4 +1,3 @@
-# Hello 👋, I'm Mostak Mahmud
 
 ## Skills
 
