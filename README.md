@@ -14,21 +14,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mos-ta-k&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mos-ta-k&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/mos-ta-k/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mos-ta-k" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mos-ta-k&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
-
